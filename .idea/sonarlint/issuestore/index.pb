@@ -7,3 +7,11 @@ V
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 T
 $src/test/java/runner/TestRunner.java,1\8\18b3e1953776f096053d202d655721ec032799e7
+Q
+!src/test/java/pages/Basepage.java,1\a\1acf309febc657f88a93d1715b3886d2d1e8df42
+Q
+!src/test/java/pages/BasePage.java,b\a\bad33c200b069c9a74de9dfe76f946ebd1f102bf
+V
+&src/test/java/pages/PrincipalPage.java,8\1\81b6ad06ad4ca957c005e89b56948efaae7a93b5
+W
+'src/test/java/steps/FreeRangeSteps.java,f\d\fd7ef09e809051fea5dcb8e847f44adbca91b72d
