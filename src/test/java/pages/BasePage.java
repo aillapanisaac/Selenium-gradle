@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 
 public class BasePage {
@@ -80,6 +81,16 @@ public class BasePage {
         Select dropdown = new Select(Find(locator));
         List<WebElement> dropdownOptions = dropdown.getOptions();
         return dropdownOptions.size();
+    }
+    public List<String> getDropdownValues(String locator){
+        Select dropdown = new Select(Find(locator));
+
+        List<WebElement> dropdownOptions = dropdown.getOptions();
+        List<String> values = new ArrayList<>();
+        for (WebElement option : dropdownOptions){
+            values.add(option.getText());
+        }
+        return values;
     }
 
 }

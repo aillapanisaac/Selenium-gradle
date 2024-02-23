@@ -17,7 +17,13 @@ Feature: Navigation bar
 #    | Newsletter |
 
 
-  Scenario: Curses are presented correcty to potential customers
+# Scenario: Curses are presented correcty to potential customers
+#    Given I navigate to www.freerangetesters.com
+#    When I go to Cursos using the navigation bar
+#    And select Introducción al Testing
+
+
+  Scenario: Users can select a plan when signing up
     Given I navigate to www.freerangetesters.com
-    When I go to Cursos using the navigation bar
-    And select Introducción al Testing
+    When I select Elegir plan
+    Then I can validate the options in the checkout page

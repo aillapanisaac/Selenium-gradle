@@ -3,6 +3,9 @@ package pages;
 public class PrincipalPage extends BasePage{
 
     private String sectionLink = "//a[normalize-space()='%s' and @href]";
+
+    private String elegirUnplanButton = "//a[normalize-space()='Elegir Plan' and @href]";
+
     //%s marcador de posicíon
     public PrincipalPage(){
         super(driver);
@@ -17,6 +20,9 @@ public class PrincipalPage extends BasePage{
         //Remplazar el marcador de posicion en sectionLink con el nombre
         String xpathSection = String.format(sectionLink, section);
         clickElement(xpathSection);
+    }
+    public void clickOnElegirPlanButton(){
+        clickElement(elegirUnplanButton);
     }
 
 

@@ -21,3 +21,5 @@ a
 1src/test/java/pages/PaginaFundamentosTesting.java,5\d\5d6cfaac84176ec7fecd9f1cb48eeeea5c75ddbd
 b
 2src/test/java/pages/PaginaFundamentosTestings.java,d\f\df4adf50dfe9b32fc4e108a585e26e43f48eb640
+W
+'src/test/java/pages/PaginaRegistro.java,1\3\133bd7e828ee721edc81692f4591e464a70cbaee
