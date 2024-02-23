@@ -17,3 +17,7 @@ W
 'src/test/java/steps/FreeRangeSteps.java,f\d\fd7ef09e809051fea5dcb8e847f44adbca91b72d
 U
 %src/test/java/pages/PaginaCursos.java,a\3\a3df8340692ff176237f2ee4092d6b40fe2a0c4f
+a
+1src/test/java/pages/PaginaFundamentosTesting.java,5\d\5d6cfaac84176ec7fecd9f1cb48eeeea5c75ddbd
+b
+2src/test/java/pages/PaginaFundamentosTestings.java,d\f\df4adf50dfe9b32fc4e108a585e26e43f48eb640

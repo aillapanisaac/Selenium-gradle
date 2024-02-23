@@ -19,5 +19,5 @@ Feature: Navigation bar
 
   Scenario: Curses are presented correcty to potential customers
     Given I navigate to www.freerangetesters.com
-    When I go to curses using the navigation bar
-    And Select introducción al Testing
+    When I go to Cursos using the navigation bar
+    And select Introducción al Testing
