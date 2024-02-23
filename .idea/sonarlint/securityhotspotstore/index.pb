@@ -15,3 +15,5 @@ V
 &src/test/java/pages/PrincipalPage.java,8\1\81b6ad06ad4ca957c005e89b56948efaae7a93b5
 W
 'src/test/java/steps/FreeRangeSteps.java,f\d\fd7ef09e809051fea5dcb8e847f44adbca91b72d
+U
+%src/test/java/pages/PaginaCursos.java,a\3\a3df8340692ff176237f2ee4092d6b40fe2a0c4f

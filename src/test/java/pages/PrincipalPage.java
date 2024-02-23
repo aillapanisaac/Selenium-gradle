@@ -3,6 +3,7 @@ package pages;
 public class PrincipalPage extends BasePage{
 
     private String sectionLink = "//a[normalize-space()='%s' and @href]";
+    //%s marcador de posicíon
     public PrincipalPage(){
         super(driver);
     }

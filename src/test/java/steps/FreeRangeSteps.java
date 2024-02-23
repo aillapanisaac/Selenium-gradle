@@ -15,4 +15,9 @@ public class FreeRangeSteps {
     public void navigationBarUse(String section){
         landingPage.clickOnSectionNavigationBar(section);
     }
+
+   @And("Select_introducción_al_Testing")
+    public void navigateToIntro(){
+
+   }
 }
