@@ -13,5 +13,5 @@ Feature: Navigation bar
     | Cursos     |
     | Recursos   |
     | Udemy      |
-    | Mentorias  |
+    | Mentorías  |
     | Newsletter |
