@@ -23,3 +23,7 @@ b
 2src/test/java/pages/PaginaFundamentosTestings.java,d\f\df4adf50dfe9b32fc4e108a585e26e43f48eb640
 W
 'src/test/java/pages/PaginaRegistro.java,1\3\133bd7e828ee721edc81692f4591e464a70cbaee
+G
+target/cucumber-reports,8\9\89924d5d2e32aa73fa20cd1b583861ff4e21c98d
+N
+src/test/java/steps/Hooks.java,1\d\1d15d0be5fcf9b0ee3887e76bcdbc6ac312000c8
